@@ -1,0 +1,11 @@
+d={1:'spidy',2:'akazaa'}
+print(d)
+print(d[1])
+d["age"]=17
+print(d)
+del(d[1])
+print(d)
+d.pop('age')
+print(d)
+d.clear()
+print(d)
